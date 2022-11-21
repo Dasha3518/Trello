@@ -1,2 +1,3 @@
 # Trello
-start
+Group project with JS
+"TeachMeSkills"
